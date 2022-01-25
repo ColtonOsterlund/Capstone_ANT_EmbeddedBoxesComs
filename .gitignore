@@ -1,0 +1,12 @@
+nRF5_SDK_17.1.0_ddde560/*
+
+!nRF5_SDK_17.1.0_ddde560/examples
+nRF5_SDK_17.1.0_ddde560/examples/*
+
+!nRF5_SDK_17.1.0_ddde560/examples/ant
+nRF5_SDK_17.1.0_ddde560/examples/ant/*
+!nRF5_SDK_17.1.0_ddde560/examples/ant/ant_io_demo
+
+!nRF5_SDK_17.1.0_ddde560/examples/peripheral
+nRF5_SDK_17.1.0_ddde560/examples/peripheral/*
+!nRF5_SDK_17.1.0_ddde560/examples/peripheral/uart
